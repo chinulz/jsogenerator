@@ -1,3 +1,5 @@
+swal.fire('Halo, selamat datang..., jika acak acakan gunakan mode desktop ya');
+
 //generate
 function runCharCodeAt() {
     if (charCodeAt.input.value == "") {
