@@ -210,7 +210,10 @@ body.mode #txtsucces {
 }
 
 pre {
-  text-align: center;
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%);
   font-size: 20px;
 }
 
