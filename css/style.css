@@ -126,8 +126,6 @@ body.mode #toggle .ma {
 #toggle.aktif .indicator {
     left: 100px;
     background: linear-gradient(to bottom, #00ff00, #ffffff);
-    cursor: pointer;
-    transition: 0.9s;
 }
 
 textarea {
