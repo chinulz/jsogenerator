@@ -12,7 +12,7 @@ function runCharCodeAt() {
             if (output != "") output += ", ";
                output += input.charCodeAt(i);
         }
-    document.charCodeAt.output.value = 'document.documentElement.innerHTML = String.fromCharCode(' + output + ')';
+    document.charCodeAt.output.value = 'document.documentElement.innerHTML = String.fromCharCode(' + output + ');';
     }
 }
 
