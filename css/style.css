@@ -258,7 +258,7 @@ body.mode pre {
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 800px) {
     textarea {
         width: 720px;
         height: 430px;
